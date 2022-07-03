@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9976" started-at="2022-07-03T17:30:07Z" finished-at="2022-07-03T17:30:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9976" started-at="2022-07-03T17:30:07Z" finished-at="2022-07-03T17:30:17Z">
+      <class name="IBM.API_Assignment.apiTestCases">
+        <test-method status="PASS" signature="Acreateuser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, int)[pri:0, instance:IBM.API_Assignment.apiTestCases@1ae369b7]" name="Acreateuser" duration-ms="3611" started-at="2022-07-03T23:00:07Z" data-provider="testdata" finished-at="2022-07-03T23:00:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abhi1234]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abhi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Shek]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[a@a.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[abhi@1234]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[91911]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Acreateuser -->
+        <test-method status="PASS" signature="Bgetuser()[pri:0, instance:IBM.API_Assignment.apiTestCases@1ae369b7]" name="Bgetuser" duration-ms="1523" started-at="2022-07-03T23:00:10Z" finished-at="2022-07-03T23:00:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bgetuser -->
+        <test-method status="PASS" signature="Cloginuser()[pri:0, instance:IBM.API_Assignment.apiTestCases@1ae369b7]" name="Cloginuser" duration-ms="1736" started-at="2022-07-03T23:00:12Z" finished-at="2022-07-03T23:00:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cloginuser -->
+        <test-method status="PASS" signature="Dmodify()[pri:0, instance:IBM.API_Assignment.apiTestCases@1ae369b7]" name="Dmodify" duration-ms="1439" started-at="2022-07-03T23:00:14Z" finished-at="2022-07-03T23:00:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dmodify -->
+        <test-method status="PASS" signature="Edelete()[pri:0, instance:IBM.API_Assignment.apiTestCases@1ae369b7]" name="Edelete" duration-ms="1645" started-at="2022-07-03T23:00:15Z" finished-at="2022-07-03T23:00:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Edelete -->
+      </class> <!-- IBM.API_Assignment.apiTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
